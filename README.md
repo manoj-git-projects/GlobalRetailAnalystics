@@ -1,4 +1,4 @@
-# GlobalRetailAnalystics
+# Global Retail company Analystics
 GlobalRetail - ETL and Analystics Project using PySpark.
 This Project uses Medallion Archtiecture for loading ,cleaning and aggragating the data
 
